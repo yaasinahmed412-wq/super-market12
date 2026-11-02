@@ -1,0 +1,16 @@
+ID,Product,Price_USD,Quantity_Sold,Sales_Level
+1,Rice,20,50,High
+2,Sugar,10,40,High
+3,Milk,5,10,Low
+4,Oil,15,35,High
+5,Bread,2,8,Low
+6,Pasta,4,30,High
+7,Eggs,6,12,Low
+8,Flour,8,45,High
+9,Juice,3,15,Low
+10,Water,1,60,High
+11,Soap,4,25,High
+12,Biscuits,2,7,Low
+13,Coffee,12,20,Low
+14,Tea,5,32,High
+15,Cheese,9,10,Low
